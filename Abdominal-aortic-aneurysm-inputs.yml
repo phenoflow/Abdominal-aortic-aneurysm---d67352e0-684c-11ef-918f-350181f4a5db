@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/renal-abdominal-aortic-aneurysm---secondary.py
+inputModule3:
+  class: File
+  path: python/occlusive-abdominal-aortic-aneurysm---secondary.py
+inputModule4:
+  class: File
+  path: python/abdominal-aortic-aneurysm-ruptured---secondary.py
+inputModule5:
+  class: File
+  path: python/external-abdominal-aortic-aneurysm---secondary.py
+inputModule6:
+  class: File
+  path: python/abdominal-aortic-aneurysm-artery---secondary.py
+inputModule7:
+  class: File
+  path: python/abdominal-aortic-aneurysm---icduncat.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
